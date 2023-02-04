@@ -1,0 +1,15 @@
+C:\Users\alex\geekbrains\c_sharp_5\chetnye_kuby\bin\Debug\net7.0\chetnye_kuby.exe
+C:\Users\alex\geekbrains\c_sharp_5\chetnye_kuby\bin\Debug\net7.0\chetnye_kuby.deps.json
+C:\Users\alex\geekbrains\c_sharp_5\chetnye_kuby\bin\Debug\net7.0\chetnye_kuby.runtimeconfig.json
+C:\Users\alex\geekbrains\c_sharp_5\chetnye_kuby\bin\Debug\net7.0\chetnye_kuby.dll
+C:\Users\alex\geekbrains\c_sharp_5\chetnye_kuby\bin\Debug\net7.0\chetnye_kuby.pdb
+C:\Users\alex\geekbrains\c_sharp_5\chetnye_kuby\obj\Debug\net7.0\chetnye_kuby.csproj.AssemblyReference.cache
+C:\Users\alex\geekbrains\c_sharp_5\chetnye_kuby\obj\Debug\net7.0\chetnye_kuby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\geekbrains\c_sharp_5\chetnye_kuby\obj\Debug\net7.0\chetnye_kuby.AssemblyInfoInputs.cache
+C:\Users\alex\geekbrains\c_sharp_5\chetnye_kuby\obj\Debug\net7.0\chetnye_kuby.AssemblyInfo.cs
+C:\Users\alex\geekbrains\c_sharp_5\chetnye_kuby\obj\Debug\net7.0\chetnye_kuby.csproj.CoreCompileInputs.cache
+C:\Users\alex\geekbrains\c_sharp_5\chetnye_kuby\obj\Debug\net7.0\chetnye_kuby.dll
+C:\Users\alex\geekbrains\c_sharp_5\chetnye_kuby\obj\Debug\net7.0\refint\chetnye_kuby.dll
+C:\Users\alex\geekbrains\c_sharp_5\chetnye_kuby\obj\Debug\net7.0\chetnye_kuby.pdb
+C:\Users\alex\geekbrains\c_sharp_5\chetnye_kuby\obj\Debug\net7.0\chetnye_kuby.genruntimeconfig.cache
+C:\Users\alex\geekbrains\c_sharp_5\chetnye_kuby\obj\Debug\net7.0\ref\chetnye_kuby.dll
